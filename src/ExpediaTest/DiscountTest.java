@@ -20,4 +20,5 @@ public class DiscountTest {
 		Assert.assertEquals(0.01, target.ReductionPercent, 0.0001);
 		Assert.assertEquals(1, target.FrequentFlyerMilesCost);
 	}
+
 }
